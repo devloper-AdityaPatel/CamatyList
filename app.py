@@ -24,7 +24,7 @@ st.markdown(" ")
 
 st.markdown(":rainbow[Hola!]")
 st.markdown("Welcome Members!")
-st.markdown("Here you can all The details about camaty related to past payments")
+st.markdown("Here you can get all The details about camaty related to past payments")
 st.markdown("bidder winner etc.")
 
 st.divider()
